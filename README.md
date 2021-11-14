@@ -10,4 +10,4 @@ root -l
 [1] Analysis("test.dat")
 ```
 
-`card_info`中关于board (chip), card, channel和信号的信息被[txt2root](./txt2root.C)写入root文件。
+`card_info`中关于board (card), chip, channel和信号的信息被[txt2root](./txt2root.C)写入root文件。
